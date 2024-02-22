@@ -18,11 +18,7 @@ function HomepageHeader() {
         </Heading>
         <p className="hero__subtitle">{siteConfig.tagline}</p>
         <div className={styles.buttons}>
-          <Link
-            className="button button--secondary button--lg"
-            to="/docs/Carlsbad-Watershed-Management-Area">
-            Let's Get Started!
-          </Link>
+
         </div>
       </div>
     </header>
@@ -33,7 +29,7 @@ export default function Home() {
   const {siteConfig} = useDocusaurusContext();
   return (
     <Layout
-      title={`CWMA Water Quality FY21/22`}
+      title={`CWMA Water Quality FY22/23`}
       description="Description will go into a meta tag in <head />">
       <HomepageHeader />
       <main>

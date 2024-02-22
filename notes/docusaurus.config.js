@@ -8,8 +8,8 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Carlsbad Watershed Management Area WQIP FY22/23 Annual Report',
-  tagline: 'Progress on water quality improvement goals',
+  title: 'CWMA Water Quality Improvements',
+  tagline: 'Streamlined version of WQIP Goals for the CWMA',
   favicon: 'img/logo.png',
 
   // Set the production url of your site here
