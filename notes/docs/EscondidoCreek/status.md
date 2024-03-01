@@ -4,3 +4,6 @@ id: Overview
 ---
 
 # Escondido Creek Hydrologic Area
+
+![HA](/img/Goals-Progress/Escondido-Creek/HA.png)
+
